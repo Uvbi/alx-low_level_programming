@@ -2,7 +2,6 @@
 
 /**
  * print_alphabet - in lowercase
- *
  * Return: 0
  */
 
